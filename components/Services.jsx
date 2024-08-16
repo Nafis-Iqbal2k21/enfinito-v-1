@@ -57,7 +57,7 @@ function Services() {
       title: "Company Automation Solution",
       slug: "company-automation-solution" ,
       description: "Provide cutting-edge automation solutions to streamline business operations, enhance efficiency, and drive growth through technology.",
-      imageUrl: "/assets/images/automation.png",
+      imageUrl: "/assets/images/auto.png",
       alt: "Company Automation Solution"
     },
 
